@@ -19,7 +19,7 @@ Google Fonts
 Setup
 To set up this project locally, follow these steps:
 Clone the repository:
-git clone https://https://github.com/GitWitit82/talktotheduck.git
+git clone https://github.com/GitWitit82/talktotheduck.git
 
 Usage
 Home Page
